@@ -1,0 +1,21 @@
+2026-09-29 22:26:16,947 - INFO - Product created: Laptop, Price: 65000, Stock: 10
+2026-09-29 22:26:16,947 - INFO - Product created: Smartphone, Price: 30000, Stock: 20
+2026-09-29 22:26:16,947 - INFO - Product created: Headphones, Price: 2500, Stock: 30
+2026-09-29 22:26:16,947 - INFO - Product created: Mechanical Keyboard, Price: 4500, Stock: 15
+2026-09-29 22:26:16,947 - INFO - Product created: Python Programming Book, Price: 800, Stock: 25
+2026-09-29 22:26:16,950 - INFO - Total calculated for Laptop: 2 x 65000 = 130000
+2026-09-29 22:26:16,950 - INFO - Stock updated for Laptop. Remaining stock: 8
+2026-09-29 22:26:16,951 - INFO - Purchase successful: 2 x Laptop
+2026-09-29 22:26:16,951 - INFO - Total calculated for Smartphone: 3 x 30000 = 90000
+2026-09-29 22:26:16,951 - INFO - Stock updated for Smartphone. Remaining stock: 17
+2026-09-29 22:26:16,951 - INFO - Purchase successful: 3 x Smartphone
+2026-09-29 22:26:16,952 - INFO - Total calculated for Headphones: 5 x 2500 = 12500
+2026-09-29 22:26:16,952 - INFO - Stock updated for Headphones. Remaining stock: 25
+2026-09-29 22:26:16,952 - INFO - Purchase successful: 5 x Headphones
+2026-09-29 22:26:16,952 - INFO - Total calculated for Mechanical Keyboard: 2 x 4500 = 9000
+2026-09-29 22:26:16,952 - INFO - Stock updated for Mechanical Keyboard. Remaining stock: 13
+2026-09-29 22:26:16,952 - INFO - Purchase successful: 2 x Mechanical Keyboard
+2026-09-29 22:26:16,952 - INFO - Total calculated for Python Programming Book: 4 x 800 = 3200
+2026-09-29 22:26:16,952 - INFO - Stock updated for Python Programming Book. Remaining stock: 21
+2026-09-29 22:26:16,952 - INFO - Purchase successful: 4 x Python Programming Book
+2026-09-29 22:26:16,954 - ERROR - Only 8 units of Laptop are available.
